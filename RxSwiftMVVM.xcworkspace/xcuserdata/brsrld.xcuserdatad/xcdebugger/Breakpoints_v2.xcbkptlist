@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "24E6971B-9034-4DA5-8B87-1E77662DBE98"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30C1F4AF-BC1D-457C-9E92-7BC0622400C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwiftMVVM/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "810B4D64-1E17-4F50-AE78-F1431F409490"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwiftMVVM/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchViewModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "810B4D64-1E17-4F50-AE78-F1431F409490 - b093a26f70fc3c28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwiftMVVM.ViewModel.fetchViewModel() -&gt; RxSwift.Observable&lt;Swift.Array&lt;RxSwiftMVVM.RestaurantViewmodel&gt;&gt;"
+                  moduleName = "RxSwiftMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brsrld/Desktop/Advenced/RxSwiftMVVM/RxSwiftMVVM/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "810B4D64-1E17-4F50-AE78-F1431F409490 - 133f11891f88bf87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;RxSwiftMVVM.Restaurant&gt;) -&gt; Swift.Array&lt;RxSwiftMVVM.RestaurantViewmodel&gt; in RxSwiftMVVM.ViewModel.fetchViewModel() -&gt; RxSwift.Observable&lt;Swift.Array&lt;RxSwiftMVVM.RestaurantViewmodel&gt;&gt;"
+                  moduleName = "RxSwiftMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brsrld/Desktop/Advenced/RxSwiftMVVM/RxSwiftMVVM/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "810B4D64-1E17-4F50-AE78-F1431F409490 - 287fda83349fd7db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwiftMVVM.Restaurant) -&gt; RxSwiftMVVM.RestaurantViewmodel in closure #1 (Swift.Array&lt;RxSwiftMVVM.Restaurant&gt;) -&gt; Swift.Array&lt;RxSwiftMVVM.RestaurantViewmodel&gt; in RxSwiftMVVM.ViewModel.fetchViewModel() -&gt; RxSwift.Observable&lt;Swift.Array&lt;RxSwiftMVVM.RestaurantViewmodel&gt;&gt;"
+                  moduleName = "RxSwiftMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brsrld/Desktop/Advenced/RxSwiftMVVM/RxSwiftMVVM/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

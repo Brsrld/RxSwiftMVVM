@@ -1,0 +1,35 @@
+
+[
+    {
+        "name": "Kebapci Helle",
+        "cuisine" : "Sanliurfa"
+    },
+    {
+        "name": "Gokcin Baklavalari",
+        "cuisine": "Sanliurfa"
+    },
+    {
+        "name": "Burcu Kebap",
+        "cuisine" : "Adiyaman"
+    },
+    {
+        "name": "Yenipinar Cigkofte",
+        "cuisine": "Adiyaman"
+    },
+    {
+        "name": "Kirmizi Doner",
+        "cuisine" : "Iskenderun"
+    },
+    {
+        "name": "Ocuk Usta",
+        "cuisine": "Sanliurfa"
+    },
+    {
+        "name": "Kavurmaci Ehmo",
+        "cuisine" : "Adiyaman"
+    },
+    {
+        "name": "Issos Doner",
+        "cuisine": "Adiyaman"
+    },
+]
